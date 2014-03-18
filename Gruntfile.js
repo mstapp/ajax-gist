@@ -11,7 +11,7 @@ module.exports = function(grunt) {
       uglify: {
           dist: {
               files: {
-                  'jquery-ajax-gist.min.js': ['jquery-ajax-gist.js']
+                  'jquery.ajax-gist.min.js': ['jquery.ajax-gist.js']
               }
           }
       }
