@@ -1,0 +1,15 @@
+{
+  "name": "ajax-gist",
+  "version": "0.1.0",
+  "private": false,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-qunit": "^0.4.0"
+  }
+}
